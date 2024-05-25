@@ -1,4 +1,4 @@
-<h2><img src="https://cdn.discordapp.com/emojis/1235974179245916170.gif?size=96&quality=lossless" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Prateek Jha! <img src="https://cdn.discordapp.com/emojis/797439202161066014.gif?size=96&quality=lossless" width="30"></h2>
+<h2><img src="https://slackmojis.com/emojis/92966-1216435614229073941/download" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Prateek Jha! <img src="https://cdn.discordapp.com/emojis/797439202161066014.gif?size=96&quality=lossless" width="30"></h2>
 
 <!--
 **PrateekJha-git/PrateekJha-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

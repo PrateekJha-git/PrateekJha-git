@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> नमस्ते (Namaste)<img src = "https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188">, I'm Prateek Jha! <img src="https://emojis.slackmojis.com/emojis/images/1643514058/149/sonic.gif?1643514058" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" width="50"/> नमस्ते (Namaste) 🙏, I'm Prateek Jha! <img src="https://emojis.slackmojis.com/emojis/images/1643514058/149/sonic.gif?1643514058" width="50"></h2>
 
 <!--
 **PrateekJha-git/PrateekJha-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
